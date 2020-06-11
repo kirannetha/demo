@@ -1,0 +1,23 @@
+img{
+    background-color: blue;
+    width: 50%;
+    height: 50%;
+
+}
+footer{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+body{text-align: center;
+    background-image: radial-gradient(black,rgb(64, 230, 160));
+}
+h1,p{
+    color: cornsilk;
+}
+h1{
+    font-size: large;
+    
+}
+html{
+    align-items: center;
+}
